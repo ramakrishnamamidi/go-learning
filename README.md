@@ -1,12 +1,8 @@
-\# go-learning
+# Go-learning
 
+# Week 1 Go Learning Examples
 
-
-Week 1 Go Learning Examples
-
-
-
-\## Folders
+#### Folders
 
 \- cmd/hello - Hello World
 
@@ -23,9 +19,9 @@ Week 1 Go Learning Examples
 \- pkg/greet - Custom package example
 
 
-# Format all Go code
+#### Format all Go code
 gofmt -w .
 
-# Check for potential issues
+#### Check for potential issues
 go vet ./...
 
