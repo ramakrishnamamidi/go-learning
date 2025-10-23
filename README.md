@@ -23,4 +23,9 @@ Week 1 Go Learning Examples
 \- pkg/greet - Custom package example
 
 
+# Format all Go code
+gofmt -w .
+
+# Check for potential issues
+go vet ./...
 
