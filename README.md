@@ -1,5 +1,3 @@
-# Go-learning
-
 # 🚀 Learn Go (Golang)
 
 Welcome to my Go learning repository!  
